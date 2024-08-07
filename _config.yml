@@ -3,6 +3,7 @@ title: Siyan Zhao
 position: Ph.D., Senior Research Fellow
 affiliation: National University of Singapore
 email: siyan.zhao@nus.edu.sg
+ORCID: 0000-0002-5282-3194
 
 # Search Engine Optimization (SEO)
 keywords: siyan zhao, zhao siyan
@@ -13,11 +14,6 @@ enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
-
-# Links
-google_scholar: https://scholar.google.com.sg/citations?hl=en&user=rV0qkaEAAAAJ&view_op=list_works&gmla=AETOMgG_vODk-ndr3nU1RfnbGcgz8hSVXEjT_ye5gpH_ZOgnbXhfDri4BIhAhD__Wk-ujEvcUrcegsRv5Hf_TpK8
-researchgate: https://www.researchgate.net/profile/Siyan-Zhao
-ORCID: https://orcid.org/0000-0002-5282-3194
 
 # Images 
 avatar: ./assets/img/zsimg.jpg
