@@ -2,6 +2,7 @@
 title: Siyan Zhao
 position: Ph.D., Senior Research Fellow
 affiliation: National University of Singapore
+affiliation_logo: ./assets/img/zsimg.jpg
 email: siyan.zhao@nus.edu.sg
 
 # Search Engine Optimization (SEO)
@@ -21,6 +22,9 @@ ORCID: https://orcid.org/0000-0002-5282-3194
 
 # Images 
 zsimg: ./assets/img/zsimg.jpg
+avatar: ./assets/img/avatar3.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 # Footnote
