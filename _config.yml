@@ -22,9 +22,9 @@ ORCID: https://orcid.org/0000-0002-5282-3194
 
 # Images 
 zsimg: ./assets/img/zsimg.jpg
-avatar: ./assets/img/avatar3.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/zsimg.jpg
+favicon: ./assets/img/zsimg.png
+favicon_dark: ./assets/img/zsimg.png
 
 # Footnotes
 # Footnote
