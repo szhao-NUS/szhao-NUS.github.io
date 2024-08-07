@@ -20,7 +20,9 @@ researchgate: https://www.researchgate.net/profile/Siyan-Zhao
 ORCID: https://orcid.org/0000-0002-5282-3194
 
 # Images 
-zsimg: ./assets/img/zsimg.JPG
+zsimg: ./assets/img/zsimg.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 # Footnote
