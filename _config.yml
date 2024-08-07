@@ -17,6 +17,8 @@ enable_last_update: false
 
 # Images 
 avatar: ./assets/img/zsimg.jpg
+favicon: ./assets/img/zsimg.jpg
+favicon_dark: ./assets/img/zsimg.jpg
 
 # Footnotes
 # Footnote
