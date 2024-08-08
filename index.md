@@ -11,11 +11,11 @@ I am currently a senior research fellow in National University of Singapore. My 
 
 ## Research Interest
 
-- **Environmental Microbiology** Identify novel metabolic/enzymatic pathways for contaminant remediation; Use metagenomics to drive cultivation-based hypothesis-testing experiments and selective enrichment/species isolations; Understand key environmental factors that shape microbial communities; Predict adaptations in microbial communities and their functionality under changing environmental conditions
+- **Environmental Microbiology**  Identify novel metabolic/enzymatic pathways for contaminant remediation; Use metagenomics to drive cultivation-based hypothesis-testing experiments and selective enrichment/species isolations; Understand key environmental factors that shape microbial communities; Predict adaptations in microbial communities and their functionality under changing environmental conditions
 - **Bioremediation of persistent organic pollutants and emerging contaminants**
 - **Microbial Source Tracking for Water quality monitoring and safety management** 
 - **Biological nutrients removal in wastewater treatment processes**
-- **Innovate molecular techniques**for studying microbial ecology of communities and novel metabolism of microbes in bioremediation of persistent pollutants, drinking water distribution system, and wastewater treatment
+- **Innovate molecular techniques** 
 
 ## Education
 - **Ph.D.**, National University of Singapore, Singapore, 2016
