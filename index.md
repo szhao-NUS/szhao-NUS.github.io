@@ -29,7 +29,6 @@ I am currently a senior research fellow in National University of Singapore. My 
 - Reviewer for Nature Water, Environmental Science & Technology, Water Research, Journal of Hazardous Materials, Applied Microbiology and Biotechnology
 
 ## Publications 
-
 **ORCID: 0000-0002-5282-3194**
 
 **Over 20 peer-reviewed publications and cited for 850+ times and an H-index of 16, as per Google Scholar records, featuring in top-tier journals in environmental science and engineering field, such as PNAS, ISME J, Environmental Science & Technology, Water Research, Journal of Hazardous Materials, Applied Environmental and Microbiology, Environmental Microbiology, and FEMS Microbiology Ecology.**
