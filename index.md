@@ -28,8 +28,9 @@ I am currently a senior research fellow in National University of Singapore. My 
 - Guest editor in Frontiers in Ecology and Evolution
 - Reviewer for Nature Water, Environmental Science & Technology, Water Research, Journal of Hazardous Materials, Applied Microbiology and Biotechnology
 
-## Selected Publications (ORCID: 0000-0002-5282-3194)
-**over 20 peer-reviewed publications and cited for 850+ times and an H-index of 16, as per Google Scholar records, featuring in top-tier journals in environmental science and engineering field, such as PNAS, ISME J, Environmental Science & Technology, Water Research, Journal of Hazardous Materials, Applied Environmental and Microbiology, Environmental Microbiology, and FEMS Microbiology Ecology.**
+## Publications 
+**selected (ORCID: 0000-0002-5282-3194)
+over 20 peer-reviewed publications and cited for 850+ times and an H-index of 16, as per Google Scholar records, featuring in top-tier journals in environmental science and engineering field, such as PNAS, ISME J, Environmental Science & Technology, Water Research, Journal of Hazardous Materials, Applied Environmental and Microbiology, Environmental Microbiology, and FEMS Microbiology Ecology.**
 
 - Zhao S., Rogers M.J., Ding C.,Xu G., & He J.(2024) Interspecies Mobility of Organohalide Respiration Gene Clusters Enables Genetic Bioaugmentation. Environmental Science & Technology. 58, 9, 4214–4225
 - Zhao S., Rogers M.J., Liu Y., Andersen G.L., & He J. (2024) Anthropogenic activity remains the main contributor to fecal pollution in managed tropical watersheds as unravelled by PhyloChip microarray-based microbial source tracking. Journal of Hazardous Materials. 461,132474
